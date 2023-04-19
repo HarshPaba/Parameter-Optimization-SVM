@@ -1,7 +1,7 @@
 # Parameter-Optimization-SVM
 Performed hyperparameter tuning for SVM classifier using RandomizedSearchCV.
 
-![output](https://user-images.githubusercontent.com/79644670/233164408-08c9d958-16e6-482b-873f-499b37c34f02.png)
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/79644670/233164729-03b3abf7-0057-412e-86ca-4d7069a1d4bb.png">
 
 Result:
 
