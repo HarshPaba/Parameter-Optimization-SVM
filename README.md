@@ -5,6 +5,6 @@ Performed hyperparameter tuning for SVM classifier using RandomizedSearchCV.
 
 Result:
 
-Best Score 0.8722222222222223 for Sample2
+Best Score 0.8977777777777778 for Sample1
 
 Best Hyperparameters: {'nu': 0.2, 'kernel': 'linear'}
